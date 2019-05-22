@@ -1,0 +1,2 @@
+# Flatom
+A blog
